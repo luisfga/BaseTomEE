@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.luisfga</groupId>
-    <artifactId>TomEE8Demo</artifactId>
+    <artifactId>BootingTomEE</artifactId>
     <version>0.1</version>
 
     <packaging>war</packaging>
   
-    <name>TomEE8Demo</name>
+    <name>BootingTomEE</name>
 
     <dependencies>
         <dependency>
@@ -59,7 +59,7 @@
     </dependencies>
 
     <build>
-        <finalName>TomEE8Demo</finalName>
+        <finalName>BootingTomEE</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.tomee.maven</groupId>
