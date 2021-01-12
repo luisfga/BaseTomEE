@@ -1,1 +1,1 @@
-Base TomEE para novos projetos
+TomEE para novos projetos
