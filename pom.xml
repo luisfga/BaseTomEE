@@ -68,7 +68,7 @@
                 <configuration>
                     <tomeeVersion>${tomee.version}</tomeeVersion>
                     <tomeeClassifier>webprofile</tomeeClassifier>
-                    <context>TomEE8Demo</context>
+                    <context>ROOT</context>
                 </configuration>
             </plugin>
         </plugins>

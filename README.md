@@ -1,1 +1,1 @@
-TomEE para novos projetos
+TomEE Standalone básico para novos projetos
